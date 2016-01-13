@@ -1,0 +1,20 @@
+.green-background {
+  background-color: green;
+  background-image: url(../images/duck.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.yellow-background {
+  background-color: orange;
+  background-image: url(../images/beaver.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.red-background {
+  background-color: red;
+  background-image: url(../images/lion.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
