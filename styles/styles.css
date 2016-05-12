@@ -2,19 +2,19 @@
   background-color: green;
   background-image: url(../images/duck.png);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center 300px;
 }
 
-.yellow-background {
-  background-color: orange;
-  background-image: url(../images/beaver.png);
+.purple-background {
+  background-color: #9289C0;
+  background-image: url(../images/huskies.png);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center 300px;
 }
 
 .red-background {
   background-color: red;
   background-image: url(../images/lion.png);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center 300px;
 }

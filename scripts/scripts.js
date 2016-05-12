@@ -4,9 +4,9 @@ $(document).ready(function() {
   $("body").addClass("green-background");
  });
 
- $("button#yellow").click(function() {
+ $("button#purple").click(function() {
   $("body").removeClass();
-  $("body").addClass("yellow-background");
+  $("body").addClass("purple-background");
  });
 
  $("button#red").click(function() {
